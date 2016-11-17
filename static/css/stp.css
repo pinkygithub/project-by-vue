@@ -1,0 +1,20 @@
+/* 
+* @Author: Marte
+* @Date:   2016-09-30 17:05:47
+* @Last Modified by:   Marte
+* @Last Modified time: 2016-09-30 17:28:43
+*/
+    html,body {
+        width: 100%;
+        height: 100%;
+    }
+    
+    #app {
+        width: 100%;
+        height: 100%;
+    }
+    .logo{width:100%;height:80px;line-height:80px;color:#eee;font-size:30px;text-align:center;overflow:hidden;}
+    .nav li a{font-family:"微软雅黑";font-weight:normal;}
+
+
+
